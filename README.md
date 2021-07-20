@@ -37,3 +37,6 @@ $result = FileInclude::include_once('file.php', null, ['extract'=>['bob']]);
 ```
 
 
+
+## Notes
+This is a rewrite and selection from \Grithin\Files in phpbase
